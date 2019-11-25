@@ -26,20 +26,20 @@ author: XU Yekai
 author_bio: Hi, I am is XU Yekai, a master student at Tsinghua-Berkeley Shenzhen Institute, Tsinghua University. My research interests are social data science.  
 author_email: "xyk18@mails.tsinghua.edu.cn"
 author_location: China
-# author_website_url: "https://jaimelavie.github.io/"
+author_website_url: "https://jaimelavie.github.io/"
 
 author_work_experiences: 
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: OPPO
+              company_logo: oppo.png
+              company_url: https://www.oppo.com/en/
+              designation: Android Development Intern
+              description: Worked on CuttleFish simulator
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: Cloopen
+              company_logo: cloopen.png
+              company_url: https://www.cloopen.com/
+              designation: Software Engineering Intern
+              description: Worked on human face liveness detection and gesture recognition
               visibility: true
 
 author_education_details:
