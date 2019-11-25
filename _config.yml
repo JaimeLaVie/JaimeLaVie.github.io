@@ -33,13 +33,13 @@ author_work_experiences:
               company_logo: oppo.png
               company_url: https://www.oppo.com/en/
               designation: Android Development Intern
-              description: Worked on CuttleFish simulator
+              description: Worked on CuttleFish simulator (May 2019 - Jun 2019)
               visibility: true
             - company_name: Cloopen
               company_logo: cloopen.png
               company_url: https://www.cloopen.com/
               designation: Software Engineering Intern
-              description: Worked on human face liveness detection and gesture recognition
+              description: Worked on human face liveness detection and gesture recognition (Jul 2019 - Aug 2019)
               visibility: true
 
 author_education_details:
@@ -93,10 +93,10 @@ linkedin_username: 徐曳恺 XU Yekai
 # flickr_username: 
 
 #for comments using disqus
-disqus_shortname: sujay-kundu  
+# disqus_shortname: sujay-kundu  
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+# wakatime_username: sujaykundu777
 
 # formspree (contact form)
 formspree_email: johndoe@gmail.com
