@@ -43,11 +43,23 @@ author_work_experiences:
               visibility: true
 
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: tbsi.png
+                college_name: Tsinghua-Berkeley Shenzhen Institute
+                college_url: https://www.tbsi.edu.cn/en/
+                college_degree: Data Science and Information Technology
+                description: Master of Science, 2018-2021(Expected)
+                visibility: true
+              - college_logo: tju.png
+                college_name: Tianjin University
+                college_url: http://www.tju.edu.cn/english/
+                college_degree: Automation
+                description: Bachelor of Engineering, 2014-2018
+                visibility: true
+              - college_logo: ecn.png
+                college_name: École Centrale de Nantes
+                college_url: https://www.ec-nantes.fr/
+                college_degree: Exchange Student of Signal, Control, and Robotics
+                description: Foundation Master, 2017-2018
                 visibility: true
 
 author_project_details:
