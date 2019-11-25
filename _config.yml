@@ -69,15 +69,10 @@ author_education_details:
                 visibility: true
 
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: true
-              - project_thumbnail: programmingebooks.png
-                project_title: Programming Ebooks
-                project_description: A Platform to easily find and read programming books
-                project_url: https://programmingebooks.com
+              - project_thumbnail: wcloud.png
+                project_title: How do people view China? A Temporal and Spatial Study of China-Related Twitter Data around the Chinese National Day 
+                project_description: Analyzing tweets collected around the Chinese National Day to study the sentiments of netizens towards China.
+                # project_url: 
                 visibility: true
 
 # social links
@@ -96,7 +91,7 @@ linkedin_username: 徐曳恺 XU Yekai
 # disqus_shortname: sujay-kundu  
 
 # wakatime username (coding activity)
-# wakatime_username: sujaykundu777
+wakatime_username: sujaykundu777
 
 # formspree (contact form)
 formspree_email: johndoe@gmail.com
