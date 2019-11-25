@@ -60,7 +60,13 @@ author_education_details:
                 college_url: https://www.ec-nantes.fr/
                 college_degree: Exchange Student of Signal, Control, and Robotics
                 description: Foundation Master, 2017-2018
-                visibility: false
+                visibility: true
+              - college_logo: coursera.png
+                college_name: Coursera
+                college_url: https://www.coursera.org/account/accomplishments/certificate/A49272V49X9T
+                college_degree: Understanding International Relations Theory
+                description: Online Course, Jun 2019
+                visibility: true
 
 author_project_details:
               - project_thumbnail: gamershub.png
