@@ -44,7 +44,7 @@ author_work_experiences:
 
 author_education_details:
               - college_logo: tbsi.png
-                college_name: Tsinghua-Berkeley Shenzhen Institute
+                college_name: Tsinghua-Berkeley Shenzhen Institute, Tsinghua University
                 college_url: https://www.tbsi.edu.cn/en/
                 college_degree: Data Science and Information Technology
                 description: Master of Science, 2018-2021(Expected)
@@ -60,7 +60,7 @@ author_education_details:
                 college_url: https://www.ec-nantes.fr/
                 college_degree: Exchange Student of Signal, Control, and Robotics
                 description: Foundation Master, 2017-2018
-                visibility: true
+                visibility: false
 
 author_project_details:
               - project_thumbnail: gamershub.png
