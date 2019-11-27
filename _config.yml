@@ -29,41 +29,41 @@ author_location: Beijing and Shenzhen, China
 author_website_url: "https://jaimelavie.github.io/"
 
 author_work_experiences: 
-            - company_name: OPPO
+            - company_name: <a href="https://www.oppo.com/en/">OPPO</a>
               company_logo: oppo.png
-              company_url: https://www.oppo.com/en/
+              # company_url: https://www.oppo.com/en/
               designation: Android Development Intern
               description: Worked on CuttleFish simulator (May 2019 - Jun 2019)
               visibility: true
-            - company_name: Cloopen
+            - company_name: <a href="https://www.cloopen.com/">Cloopen</a>
               company_logo: cloopen.png
-              company_url: https://www.cloopen.com/
+              # company_url: https://www.cloopen.com/
               designation: Software Engineering Intern
               description: Worked on human face liveness detection and gesture recognition (Jul 2019 - Aug 2019)
               visibility: true
 
 author_education_details:
               - college_logo: tbsi.png
-                college_name: Tsinghua-Berkeley Shenzhen Institute, Tsinghua University
-                college_url: https://www.tbsi.edu.cn/en/
+                college_name: <a href="https://www.tbsi.edu.cn/en/">Tsinghua-Berkeley Shenzhen Institute</a>, <a href="https://www.tsinghua.edu.cn/publish/thu2018en/index.html"> Tsinghua University </a>
+                # college_url: https://www.tbsi.edu.cn/en/
                 college_degree: Data Science and Information Technology
                 description: Master of Science, 2018-2021(Expected)
                 visibility: true
               - college_logo: ecn.png
-                college_name: École Centrale de Nantes
-                college_url: https://www.ec-nantes.fr/
+                college_name: <a href="https://www.ec-nantes.fr/">École Centrale de Nantes</a>
+                # college_url: https://www.ec-nantes.fr/
                 college_degree: Exchange Student of Signal, Control, and Robotics
                 description: Foundation Master, 2017-2018
                 visibility: true
               - college_logo: tju.png
-                college_name: Tianjin University
-                college_url: http://www.tju.edu.cn/english/
+                college_name: <a href="http://seea.tju.edu.cn/english/">School of Electrical and Information Engineering</a>, <a href="http://www.tju.edu.cn/english/"> Tianjin University </a>
+                # college_url: http://www.tju.edu.cn/english/
                 college_degree: Automation (Electrical and Electronic Engineering)
                 description: Bachelor of Engineering, 2014-2018
                 visibility: true
               - college_logo: coursera.png
-                college_name: Coursera
-                college_url: https://www.coursera.org/account/accomplishments/certificate/A49272V49X9T
+                college_name: Coursera, see <a href="https://www.coursera.org/account/accomplishments/certificate/A49272V49X9T"> Certificate </a>
+                # college_url: https://www.coursera.org/account/accomplishments/certificate/A49272V49X9T
                 college_degree: Understanding International Relations Theory
                 description: Online Course, Jun 2019
                 visibility: true
@@ -72,7 +72,7 @@ author_project_details:
               - project_thumbnail: wcloud.png
                 project_title: <a href="https://github.com/JaimeLaVie/Public-Opinion-Mining"> How do people view China? A Temporal and Spatial Study of China-Related Twitter Data around the Chinese National Day </a>
                 project_description: Analyzing tweets collected around the Chinese National Day to study the sentiments of netizens towards China.
-                project_url: https://github.com/JaimeLaVie/Public-Opinion-Mining
+                # project_url: https://github.com/JaimeLaVie/Public-Opinion-Mining
                 visibility: true
 
 # social links
