@@ -70,9 +70,9 @@ author_education_details:
 
 author_project_details:
               - project_thumbnail: wcloud.png
-                project_title: <a href="https://github.com/JaimeLaVie/Public-Opinion-Mining"> How do people view China? A Temporal and Spatial Study of China-Related Twitter Data around the Chinese National Day </a>
+                project_title: How do people view China? A Temporal and Spatial Study of China-Related Twitter Data around the Chinese National Day
                 project_description: Analyzing tweets collected around the Chinese National Day to study the sentiments of netizens towards China.
-                # project_url: https://github.com/JaimeLaVie/Public-Opinion-Mining
+                project_url: See <a href="https://github.com/JaimeLaVie/Public-Opinion-Mining"> Github </a>
                 visibility: true
 
 # social links
