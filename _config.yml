@@ -1,5 +1,5 @@
 title: 徐曳恺 XU Yekai
-subtitle: 欢迎来到我的个人网页！ Welcome to my personal wabsite!
+subtitle: 追寻梦想，永不言弃！ Pursue my dreams and never give up!
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a Jekyll Theme Built For Developers
 
@@ -49,17 +49,17 @@ author_education_details:
                 college_degree: Data Science and Information Technology
                 description: Master of Science, 2018-2021(Expected)
                 visibility: true
-              - college_logo: tju.png
-                college_name: Tianjin University
-                college_url: http://www.tju.edu.cn/english/
-                college_degree: Automation
-                description: Bachelor of Engineering, 2014-2018
-                visibility: true
               - college_logo: ecn.png
                 college_name: École Centrale de Nantes
                 college_url: https://www.ec-nantes.fr/
                 college_degree: Exchange Student of Signal, Control, and Robotics
                 description: Foundation Master, 2017-2018
+                visibility: true
+              - college_logo: tju.png
+                college_name: Tianjin University
+                college_url: http://www.tju.edu.cn/english/
+                college_degree: Automation
+                description: Bachelor of Engineering, 2014-2018
                 visibility: true
               - college_logo: coursera.png
                 college_name: Coursera
