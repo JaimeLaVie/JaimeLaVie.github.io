@@ -55,11 +55,23 @@ The result for Chinese tweets are:
 
 ![](/assets/img/posts/nationaldaytweets/Normalized Sentiment of Tweets by Time (Chinese).jpg){:height="200px" width="800px"}
 
+The figures for simplified Chinese and traditional Chinese are also available. If you are interested, you may contact me for more information.
+
 **3.2 Spatial Analysis**
 
-<a href="https://jaimelavie.github.io/National_Day_Public_Opinion_Mining/"> 可视化地图 </a>
+Some Twitter users chose to provide their location information in the profile, which enables us to conduct geological analysis. The following link contains six interactive maps. 
 
-[打开链接]</assets/img/posts/nationaldaytweets/map_pos_en.html>
+<a href="https://jaimelavie.github.io/National_Day_Public_Opinion_Mining/"> 可视化地图 Visualization </a>
+
+The first one shows the number of positive tweets sent from different countries. There are two buttons at the top of the map. Selecting the left one gives the absolute number of the positive tweets (at this time the bar at the buttom left corner is meaningless) while the right one offers the same data but scaled to the range of 0 to 100. Remember not to select both butons simultaneously, as the sum of the two doesn't make much sense. 
+
+Similar to the first figure, the second picture shows the number of negative tweets sent from different countries. Also, The third and the fourth pictures provide the number of Chinese tweets expressing positive or negative sentiments towards China.
+
+The Fifth picture compares the number of positive and negative tweets written in English. The top left button shows the difference between the two. The results were scaled to 0-100 and 79 means the two numbers are equal, that is to say, if a country's final score if larger than 79, then this country produces more positive tweets than negative ones. The middle button shows the division of the two number. The results were multiplied by 50. So if a country has a score larger than 50, it shows more positive overall sentiments towards China. The top right button also provides the division of the two numbers, but the results were scaled to 0-100. Personally, I think the middle one gives the best result.
+
+The sixth picture compares the number of positive and negative tweets written in Chinese.
+
+The maps for simplified Chinese and traditional Chinese are also available. If you are interested, you may contact me for more information.
 
 **3.3 Keywords**
 
