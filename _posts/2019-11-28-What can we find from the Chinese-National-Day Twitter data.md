@@ -51,34 +51,34 @@ For English tweets with positive sentiments towards China, the most frequenly me
 
 Deleting the words that are contained in both graphs, the results would become:
 
-![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_en.png){:class="img-fluid"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_en.png){:class="img-fluid"}
+![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_en.png){:height="400px" width="400px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_en.png){:height="400px" width="400px"}
 
 
 For Chinese (including both simplified and traditional Chinese) tweets with positive sentiments towards China, the most frequenly mentioned words are shown bottom left, and the negtive bottom right:
 
-![](/assets/img/posts/nationaldaytweets/tweets_pos_zh.png){:class="img-fluid"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_zh.png){:class="img-fluid"}
+![](/assets/img/posts/nationaldaytweets/tweets_pos_zh.png){:height="400px" width="400px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_zh.png){:height="400px" width="400px"}
 
 Deleting the words that are contained in both graphs, the results would become:
 
-![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_zh.png){:class="img-fluid"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_zh.png){:class="img-fluid"}
+![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_zh.png){:height="400px" width="400px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_zh.png){:height="400px" width="400px"}
 
 
 For simplified Chinese tweets with positive sentiments towards China, the most frequenly mentioned words are shown bottom left, and the negtive bottom right:
 
-![](/assets/img/posts/nationaldaytweets/tweets_pos_zhs.png){:class="img-fluid"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_zhs.png){:class="img-fluid"}
+![](/assets/img/posts/nationaldaytweets/tweets_pos_zhs.png){:height="400px" width="400px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_zhs.png){:height="400px" width="400px"}
 
 Deleting the words that are contained in both graphs, the results would become:
 
-![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_zhs.png){:class="img-fluid"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_zhs.png){:class="img-fluid"}
+![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_zhs.png){:height="400px" width="400px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_zhs.png){:height="400px" width="400px"}
 
 
 For traditional Chinese tweets with positive sentiments towards China, the most frequenly mentioned words are shown bottom left, and the negtive bottom right:
 
-![](/assets/img/posts/nationaldaytweets/tweets_pos_zht.png){:class="img-fluid"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_zht.png){:class="img-fluid"}
+![](/assets/img/posts/nationaldaytweets/tweets_pos_zht.png){:height="400px" width="400px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_zht.png){:height="400px" width="400px"}
 
 Deleting the words that are contained in both graphs, the results would become:
 
-![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_zht.png){:class="img-fluid"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_zht.png){:class="img-fluid"}
+![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_zht.png){:height="400px" width="400px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_zht.png){:height="400px" width="400px"}
 
 ##### Future analysis
 Analysis from the political aspect may focus on the causes of the phenomenon shown above. A country's relationship with China, its location (e.g. whether located along the Belt and Road), as well as the major laguage used within the country shall all be examined.
