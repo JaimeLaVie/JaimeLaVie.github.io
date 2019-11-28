@@ -69,7 +69,7 @@ Similar to the first figure, the second picture shows the number of negative Eng
 
 The Fifth picture compares the number of positive and negative tweets written in English. The top left button shows the difference between the two. The results were scaled to 0-100 and 79 means the two numbers are equal, that is to say, if a country's final score if larger than 79, then this country produces more positive tweets than negative ones. The middle button shows the division of the two number. The results were multiplied by 50. So if a country has a score larger than 50, it shows more positive overall sentiments towards China than negative. The top right button also provides the division of the two numbers, but the results were scaled to 0-100. Personally, I think the middle one gives the best result.
 
-The sixth, seventh, and eighth picture compares the number of positive and negative tweets written in Chinese (combining simplified and traditional Chinese), simplified Chinese, and traditional Chinese.
+The sixth, seventh, and eighth picture compares the number of positive and negative tweets written in Chinese (combining simplified and traditional Chinese), simplified Chinese, and traditional Chinese in the same way as the previous one.
 
 The maps for the numbers of positive and negative tweets written in simplified and traditional Chinese are also available. If you are interested, you may contact me for more information.
 
