@@ -28,35 +28,62 @@ The analysis of the data is not yet completed, so this section only provides bas
 **Keywords**
 
 For English tweets with positive sentiments towards China, the most frequenly mentioned words are:
+
 ![deploy using travis](/assets/img/posts/nationaldaytweets/tweets_pos_en.png){:class="img-fluid"}
+
 For English tweets with negative sentiments towards China, the most frequenly mentioned words are:
+
 ![deploy using travis](/assets/img/posts/nationaldaytweets/tweets_neg_en.png){:class="img-fluid"}
+
 Deleting the words that are contained in both graphs, the results would become:
+
 ![deploy using travis](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_en.png){:class="img-fluid"}
+
 ![deploy using travis](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_en.png){:class="img-fluid"}
 
+
 For Chinese (including both simplified and traditional Chinese) tweets with positive sentiments towards China, the most frequenly mentioned words are:
+
 ![deploy using travis](/assets/img/posts/nationaldaytweets/tweets_pos_zh.png){:class="img-fluid"}
+
 For English tweets with negative sentiments towards China, the most frequenly mentioned words are:
+
 ![deploy using travis](/assets/img/posts/nationaldaytweets/tweets_neg_zh.png){:class="img-fluid"}
+
 Deleting the words that are contained in both graphs, the results would become:
+
 ![deploy using travis](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_zh.png){:class="img-fluid"}
+
 ![deploy using travis](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_zh.png){:class="img-fluid"}
 
+
 For simplified Chinese tweets with positive sentiments towards China, the most frequenly mentioned words are:
+
 ![deploy using travis](/assets/img/posts/nationaldaytweets/tweets_pos_zhs.png){:class="img-fluid"}
+
 For English tweets with negative sentiments towards China, the most frequenly mentioned words are:
+
 ![deploy using travis](/assets/img/posts/nationaldaytweets/tweets_neg_zhs.png){:class="img-fluid"}
+
 Deleting the words that are contained in both graphs, the results would become:
+
 ![deploy using travis](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_zhs.png){:class="img-fluid"}
+
 ![deploy using travis](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_zhs.png){:class="img-fluid"}
 
+
 For traditional Chinese tweets with positive sentiments towards China, the most frequenly mentioned words are:
+
 ![deploy using travis](/assets/img/posts/nationaldaytweets/tweets_pos_zht.png){:class="img-fluid"}
+
 For English tweets with negative sentiments towards China, the most frequenly mentioned words are:
+
 ![deploy using travis](/assets/img/posts/nationaldaytweets/tweets_neg_zht.png){:class="img-fluid"}
+
 Deleting the words that are contained in both graphs, the results would become:
+
 ![deploy using travis](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_zht.png){:class="img-fluid"}
+
 ![deploy using travis](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_zht.png){:class="img-fluid"}
 
 ##### Future analysis
