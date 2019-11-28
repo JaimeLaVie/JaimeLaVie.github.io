@@ -19,5 +19,6 @@ To create training and test dataset, 1,000 tweets were randomly selected from ea
 Firstly, a relevance classifier would decide whether a tweet is relevant to the topic. For example, some tweets may be talking about the French National Day or the recent riots and chaos in Hong Kong and were mistakenly collected. These irrelevant tweets shall be excluded from the follow-up steps. Secondly, tweets written in Chinese would be categorized according to their typeface, say,simplified or traditional Chinese. Thirdly, another classifier would judge whether the tweet is simply stating a fact or is expressing certain kinds of affection. Those tweets with an affection would then be sent to the last classifier which determines the sentiment of the tweet. After training on the labeled data set and manually adjusting the dictionaries, all these classifiers have reached an average accuracy of over 90%, with several of them near 100%.
 
 ##### Results and Visualization
+The analysis of the data is not yet completed, so this section only provides basic facts with graphs and makes no comments.
 **Temporal analysis**
-
+![deploy using travis](/assets/img/posts/d3.png){:class="img-fluid"}
