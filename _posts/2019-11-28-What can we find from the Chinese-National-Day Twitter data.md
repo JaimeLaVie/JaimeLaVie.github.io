@@ -49,7 +49,7 @@ The result for Chinese tweets are:
 
 <div align=center>![](/assets/img/posts/nationaldaytweets/tweets_pos_en.png){:height="350px" width="350px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_en.png){:height="350px" width="350px"}
 
-    Deleting the words that are contained in both graphs, the results would become:
+     Deleting the words that are contained in both graphs, the results would become:
 
 ![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_en.png){:height="350px" width="350px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_en.png){:height="350px" width="350px"}
 
@@ -58,7 +58,7 @@ The result for Chinese tweets are:
 
 ![](/assets/img/posts/nationaldaytweets/tweets_pos_zh.png){:height="350px" width="350px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_zh.png){:height="350px" width="350px"}
 
-    Deleting the words that are contained in both graphs, the results would become:
+     Deleting the words that are contained in both graphs, the results would become:
 
 ![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_zh.png){:height="350px" width="350px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_zh.png){:height="350px" width="350px"}
 
@@ -67,7 +67,7 @@ The result for Chinese tweets are:
 
 ![](/assets/img/posts/nationaldaytweets/tweets_pos_zhs.png){:height="350px" width="350px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_zhs.png){:height="350px" width="350px"}
 
-    Deleting the words that are contained in both graphs, the results would become:
+     Deleting the words that are contained in both graphs, the results would become:
 
 ![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_zhs.png){:height="350px" width="350px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_zhs.png){:height="350px" width="350px"}
 
@@ -76,9 +76,10 @@ The result for Chinese tweets are:
 
 ![](/assets/img/posts/nationaldaytweets/tweets_pos_zht.png){:height="350px" width="350px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_zht.png){:height="350px" width="350px"}
 
-    Deleting the words that are contained in both graphs, the results would become:
+     Deleting the words that are contained in both graphs, the results would become:
 
 ![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_zht.png){:height="350px" width="350px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_zht.png){:height="350px" width="350px"}
+
 
 
 ##### Future analysis
