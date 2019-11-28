@@ -27,19 +27,19 @@ Please aware that in this part, the data collected in Sept 29, Sept 30 - Oct 3, 
 
 The number of English tweets concerning the Chinese National Day are:
 
-![](/assets/img/posts/nationaldaytweets/Number+of+Tweets+by+Time+(English).png){:height="200px" width="800px"}
+![](/assets/img/posts/nationaldaytweets/Number_of_Tweets_by_Time_(English).png){:height="200px" width="800px"}
 
 The number of Chinese tweets concerning the Chinese National Day are:
 
-![](/assets/img/posts/nationaldaytweets/Number+of+Tweets+by+Time+(Chinese).png){:height="200px" width="800px"}
+![](/assets/img/posts/nationaldaytweets/Number_of_Tweets_by_Time_(Chinese).png){:height="200px" width="800px"}
 
 The absolute sentiments towards China are calculated by subtracting the number of negative tweets from the number of positive tweets. And the result for English tweets are:
 
-![](/assets/img/posts/nationaldaytweets/Sentiment+of+Tweets+by+Time+(English).png){:height="200px" width="800px"}
+![](/assets/img/posts/nationaldaytweets/Sentiment_of_Tweets_by_Time_(English).png){:height="200px" width="800px"}
 
 The result for Chinese tweets are:
 
-![](/assets/img/posts/nationaldaytweets/Sentiment+of+Tweets+by+Time+(Chinese).png){:height="200px" width="800px"}
+![](/assets/img/posts/nationaldaytweets/Sentiment_of_Tweets_by_Time_(Chinese).png){:height="200px" width="800px"}
 
 **Spatial Analysis**
 
@@ -47,38 +47,39 @@ The result for Chinese tweets are:
 
 1. For English tweets with positive sentiments towards China, the most frequenly mentioned words are shown bottom left, and the negtive bottom right:
 
-![](/assets/img/posts/nationaldaytweets/tweets_pos_en.png){:height="400px" width="400px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_en.png){:height="400px" width="400px"}
+   ![](/assets/img/posts/nationaldaytweets/tweets_pos_en.png){:height="400px" width="400px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_en.png){:height="400px" width="400px"}
 
-Deleting the words that are contained in both graphs, the results would become:
+    Deleting the words that are contained in both graphs, the results would become:
 
-![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_en.png){:height="400px" width="400px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_en.png){:height="400px" width="400px"}
+   ![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_en.png){:height="400px" width="400px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_en.png){:height="400px" width="400px"}
 
 
 2. For Chinese (including both simplified and traditional Chinese) tweets with positive sentiments towards China, the most frequenly mentioned words are shown bottom left, and the negtive bottom right:
 
-![](/assets/img/posts/nationaldaytweets/tweets_pos_zh.png){:height="400px" width="400px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_zh.png){:height="400px" width="400px"}
+   ![](/assets/img/posts/nationaldaytweets/tweets_pos_zh.png){:height="400px" width="400px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_zh.png){:height="400px" width="400px"}
 
-Deleting the words that are contained in both graphs, the results would become:
+    Deleting the words that are contained in both graphs, the results would become:
 
-![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_zh.png){:height="400px" width="400px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_zh.png){:height="400px" width="400px"}
+   ![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_zh.png){:height="400px" width="400px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_zh.png){:height="400px" width="400px"}
 
 
 3. For simplified Chinese tweets with positive sentiments towards China, the most frequenly mentioned words are shown bottom left, and the negtive bottom right:
 
-![](/assets/img/posts/nationaldaytweets/tweets_pos_zhs.png){:height="400px" width="400px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_zhs.png){:height="400px" width="400px"}
+   ![](/assets/img/posts/nationaldaytweets/tweets_pos_zhs.png){:height="400px" width="400px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_zhs.png){:height="400px" width="400px"}
 
-Deleting the words that are contained in both graphs, the results would become:
+    Deleting the words that are contained in both graphs, the results would become:
 
-![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_zhs.png){:height="400px" width="400px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_zhs.png){:height="400px" width="400px"}
+   ![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_zhs.png){:height="400px" width="400px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_zhs.png){:height="400px" width="400px"}
 
 
 4. For traditional Chinese tweets with positive sentiments towards China, the most frequenly mentioned words are shown bottom left, and the negtive bottom right:
 
-![](/assets/img/posts/nationaldaytweets/tweets_pos_zht.png){:height="400px" width="400px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_zht.png){:height="400px" width="400px"}
+   ![](/assets/img/posts/nationaldaytweets/tweets_pos_zht.png){:height="400px" width="400px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_zht.png){:height="400px" width="400px"}
 
-Deleting the words that are contained in both graphs, the results would become:
+    Deleting the words that are contained in both graphs, the results would become:
 
-![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_zht.png){:height="400px" width="400px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_zht.png){:height="400px" width="400px"}
+   ![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_zht.png){:height="400px" width="400px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_zht.png){:height="400px" width="400px"}
+
 
 ##### Future analysis
 Analysis from the political aspect may focus on the causes of the phenomenon shown above. A country's relationship with China, its location (e.g. whether located along the Belt and Road), as well as the major laguage used within the country shall all be examined.
