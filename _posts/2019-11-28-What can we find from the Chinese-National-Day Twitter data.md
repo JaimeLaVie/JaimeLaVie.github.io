@@ -8,7 +8,7 @@ summary: Using twitter data to analyze the public opinions of different countrie
 thumbnail: map.png
 ---
 
-Hi, there! This is my first academic blog. What I'm going to introduce is the twmporal and spatial analysis of over **270 thousand 2019-Chinese-Natioinal-Day-related** tweets written in **English and Chinese**. These data was collected using Twitter API from 30 September to 3 October. The data of 29 September as well as from 5 October to 8 October was also separately collected.
+Hi, there! This is my first academic blog. What I'm going to introduce is the temporal and spatial analysis of over **270 thousand 2019-Chinese-Natioinal-Day-related** tweets written in **English and Chinese**. These data was collected using Twitter API from 30 September to 3 October. The data of 29 September as well as from 5 October to 8 October was also separately collected.
 
 <br>
 
