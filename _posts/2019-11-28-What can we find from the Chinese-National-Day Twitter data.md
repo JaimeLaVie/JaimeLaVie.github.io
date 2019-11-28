@@ -79,7 +79,6 @@ Deleting the words that are contained in both graphs, the results would become:
 Deleting the words that are contained in both graphs, the results would become:
 
 ![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_zht.png){:height="350px" width="350px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_zht.png){:height="350px" width="350px"}
-
 <br>
 
 ##### Future analysis
