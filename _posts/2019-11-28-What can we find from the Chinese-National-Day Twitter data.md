@@ -27,19 +27,19 @@ Please aware that in this part, the data collected in Sept 29, Sept 30 - Oct 3, 
 
 The number of English tweets concerning the Chinese National Day are:
 
-![](/assets/img/posts/nationaldaytweets/Number of Tweets by Time (English).png){:height="200px" width="800px"}
+![](/assets/img/posts/nationaldaytweets/Number%20of%20Tweets%20by%20Time%20(English).png){:height="200px" width="800px"}
 
 The number of Chinese tweets concerning the Chinese National Day are:
 
-![](/assets/img/posts/nationaldaytweets/Number of Tweets by Time (Chinese).png){:height="200px" width="800px"}
+![](/assets/img/posts/nationaldaytweets/Number%20of%20Tweets%20by%20Time%20(Chinese).png){:height="200px" width="800px"}
 
 The absolute sentiments towards China are calculated by subtracting the number of negative tweets from the number of positive tweets. And the result for English tweets are:
 
-![](/assets/img/posts/nationaldaytweets/Sentiment of Tweets by Time (English).png){:height="200px" width="800px"}
+![](/assets/img/posts/nationaldaytweets/Sentiment%20of%20Tweets%20by%20Time%20(English).png){:height="200px" width="800px"}
 
 The result for Chinese tweets are:
 
-![](/assets/img/posts/nationaldaytweets/Sentiment of Tweets by Time (Chinese).png){:height="200px" width="800px"}
+![](/assets/img/posts/nationaldaytweets/Sentiment%20of%20Tweets%20by%20Time%20(Chinese).png){:height="200px" width="800px"}
 
 **Spatial Analysis**
 
