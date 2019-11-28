@@ -63,7 +63,7 @@ Some Twitter users chose to provide their location information in the profile, w
 
 <a href="https://jaimelavie.github.io/National_Day_Public_Opinion_Mining/"> 可视化地图 Visualization </a>
 
-The first one shows the number of positive tweets sent from different countries. There are two buttons at the top of the map. Selecting the left one gives the absolute number of the positive tweets (at this time the bar at the buttom left corner is meaningless) while the right one offers the same data but scaled to the range of 0 to 100. Remember not to select both butons simultaneously, as the sum of the two doesn't make much sense. 
+The first one shows the number of positive tweets sent from different countries. There are two buttons at the top of the map. Selecting the left one gives the absolute number of the positive tweets (In this case, the bar at the buttom left corner is meaningless) while the right one offers the same data but scaled to the range of 0 to 100. Remember not to select both butons simultaneously, as the sum of the two doesn't make much sense. 
 
 Similar to the first figure, the second picture shows the number of negative tweets sent from different countries. Also, The third and the fourth pictures provide the number of Chinese tweets expressing positive or negative sentiments towards China.
 
