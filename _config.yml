@@ -72,7 +72,7 @@ author_project_details:
               - project_thumbnail: wcloud.png
                 project_title: How do people view China? A Temporal and Spatial Study of China-Related Twitter Data around the Chinese National Day
                 project_description: Analyzing tweets collected around the Chinese National Day to study the sentiments of netizens towards China.
-                project_url: <a href="/_posts/2019-11-28-What_can_we_find_from_the_Chinese-National-Day_Twitter_data.md"> Detail </a> | <a href="https://github.com/JaimeLaVie/Public-Opinion-Mining"> Github </a>
+                project_url: <a href="/social%20media%20&%20politics/2019/11/28/What-can-we-find-from-the-Chinese-National-Day-Twitter-data/"> Detail </a> | <a href="https://github.com/JaimeLaVie/Public-Opinion-Mining"> Github </a>
                 visibility: true
 
 # social links
