@@ -71,7 +71,7 @@ The Fifth picture compares the number of positive and negative tweets written in
 
 The sixth, seventh, and eighth picture compares the number of positive and negative tweets written in Chinese (combining simplified and traditional Chinese), simplified Chinese, and traditional Chinese.
 
-The maps for simplified Chinese and traditional Chinese are also available. If you are interested, you may contact me for more information.
+The maps for the numbers of positive and negative tweets written in simplified and traditional Chinese are also available. If you are interested, you may contact me for more information.
 
 **3.3 Keywords**
 
