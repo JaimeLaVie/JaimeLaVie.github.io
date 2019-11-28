@@ -25,7 +25,7 @@ The analysis of the data is not yet completed, so this section only provides bas
 
 Please aware that in this part, the data collected in Sept 29, Sept 30 - Oct 3, and Oct 5 - Oct 8 are **combined**.
 
-The number of English tweets concerning the Chinese National Day are shown below. The peak is around 18h, Oct 1:
+**3.1.1** The number of English tweets concerning the Chinese National Day are shown below. The peak is around 18h, Oct 1:
 
 ![](/assets/img/posts/nationaldaytweets/Number_of_Tweets_by_Time_(English).jpg){:height="200px" width="800px"}
 
@@ -33,15 +33,15 @@ The number of Chinese tweets concerning the Chinese National Day are shown below
 
 ![](/assets/img/posts/nationaldaytweets/Number_of_Tweets_by_Time_(Chinese).jpg){:height="200px" width="800px"}
 
-The absolute sentiments towards China are calculated by subtracting the number of negative tweets from the number of positive tweets. And the result for English tweets are shown below. The lowest point is around 18h Oct 1:
+**3.1.2** The absolute sentiments towards China are calculated by subtracting the number of negative tweets from the number of positive tweets. And the result for English tweets are shown below. The lowest point is around 18h Oct 1:
 
-![](/assets/img/posts/nationaldaytweets/Sentiment_of Tweets_by_Time_(English).jpg){:height="200px" width="800px"}
+![](/assets/img/posts/nationaldaytweets/Sentiment_of_Tweets_by_Time_(English).jpg){:height="200px" width="800px"}
 
 The result for Chinese tweets are shown below. The peaks are 1h, 4h, 10h, and 20h Oct 1:
 
-![](/assets/img/posts/nationaldaytweets/Sentiment_of Tweets_by_Time_(Chinese).jpg){:height="200px" width="800px"}
+![](/assets/img/posts/nationaldaytweets/Sentiment_of_Tweets_by_Time_(Chinese).jpg){:height="200px" width="800px"}
 
-The normalized positive sentiments are obtained by dividing the number of positive tweets within a time period by the number of all the tweets collected within this time period. The normalized negative sentiments can be calculated in the same way. And the normalized sentiments is the difference between the normalized positive sentiments and the normalized negative sentiments. The result for English tweets are:
+**3.1.3** The normalized positive sentiments are obtained by dividing the number of positive tweets within a time period by the number of all the tweets collected within this time period. The normalized negative sentiments can be calculated in the same way. And the normalized sentiments is the difference between the normalized positive sentiments and the normalized negative sentiments. The result for English tweets are: (The blue, green, and red lines are the normalized positive sentiments, the normalized negative sentiments, and the normalized overall sentiments, respectively)
 
 ![](/assets/img/posts/nationaldaytweets/Normalized Sentiment of Tweets by Time (English).jpg){:height="200px" width="800px"}
 
@@ -50,6 +50,8 @@ The result for Chinese tweets are:
 ![](/assets/img/posts/nationaldaytweets/Normalized Sentiment of Tweets by Time (Chinese).jpg){:height="200px" width="800px"}
 
 **3.2 Spatial Analysis**
+
+
 
 **3.3 Keywords**
 
