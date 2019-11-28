@@ -29,7 +29,7 @@ The analysis of the data is not yet completed, so this section only provides bas
 
 **3.1 Temporal analysis**
 
-Please aware that in this part, the data collected in Sept 29, Sept 30 - Oct 3, and Oct 5 - Oct 8 are **combined**.
+Please aware that in this part, the data collected in Sept 29, Sept 30 - Oct 3, and Oct 5 - Oct 8 are **concatenated**.
 
 **3.1.1** The number of English tweets concerning the Chinese National Day are shown below. The peak is around 18h, Oct 1:
 
