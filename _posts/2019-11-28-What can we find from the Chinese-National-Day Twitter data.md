@@ -35,11 +35,11 @@ The number of Chinese tweets concerning the Chinese National Day are shown below
 
 The absolute sentiments towards China are calculated by subtracting the number of negative tweets from the number of positive tweets. And the result for English tweets are:
 
-![](/assets/img/posts/nationaldaytweets/Sentiment_of_Tweets_by_Time_(English).jpg){:height="200px" width="800px"}
+![](/assets/img/posts/nationaldaytweets/Sentiment_of Tweets_by_Time_(English).jpg){:height="200px" width="800px"}
 
 The result for Chinese tweets are:
 
-![](/assets/img/posts/nationaldaytweets/Sentiment_of_Tweets_by_Time_(Chinese).jpg){:height="200px" width="800px"}
+![](/assets/img/posts/nationaldaytweets/Sentiment_of Tweets_by_Time_(Chinese).jpg){:height="200px" width="800px"}
 
 **Spatial Analysis**
 
@@ -80,7 +80,7 @@ The result for Chinese tweets are:
 
 ![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_zht.png){:height="350px" width="350px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_zht.png){:height="350px" width="350px"}
 
-
+<br>
 
 ##### Future analysis
 Analysis from the political aspect may focus on the causes of the phenomenon shown above. A country's relationship with China, its location (e.g. whether located along the Belt and Road), as well as the major laguage used within the country shall all be examined.
