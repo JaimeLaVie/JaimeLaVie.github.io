@@ -10,18 +10,18 @@ thumbnail: map.png
 
 Hi, there! This is my first academic blog. What I'm going to introduce is the twmporal and spatial analysis of over **270 thousand 2019-Chinese-Natioinal-Day-related** tweets written in **English and Chinese**. These data was collected using Twitter API from 30 September to 3 October. The data of 29 September as well as from 5 October to 8 October was also separately collected.
 
-##### Aims
+##### 1. Aims
 I decide to collect and analyze the data because I am interested in whether their is a significant difference in the expressed sentiments on Twitter towards China during such a grand occasion. Also, I want to observe the fluctuation of overall sentiments concerning time and languages.
 
-##### Methods and experiments
+##### 2. Methods and experiments
 To create training and test dataset, 1,000 tweets were randomly selected from each language and four students from different backgrounds were involved in the labeling. The technique used to analyze the general sentiment of the tweets at this stage is a mixed method of dictionary and SVM, which yields satisfactory results while avoid being too complicated. Currently, all the classifiers mentioned below are combinations of a trained SVM and positive-negative dictionaries.
 
 Firstly, a relevance classifier would decide whether a tweet is relevant to the topic. For example, some tweets may be talking about the French National Day or the recent riots and chaos in Hong Kong and were mistakenly collected. These irrelevant tweets shall be excluded from the follow-up steps. Secondly, tweets written in Chinese would be categorized according to their typeface, say,simplified or traditional Chinese. Thirdly, another classifier would judge whether the tweet is simply stating a fact or is expressing certain kinds of affection. Those tweets with an affection would then be sent to the last classifier which determines the sentiment of the tweet. After training on the labeled data set and manually adjusting the dictionaries, all these classifiers have reached an average accuracy of over 90%, with several of them near 100%.
 
-##### Results and Visualization
+##### 3. Results and Visualization
 The analysis of the data is not yet completed, so this section only provides basic facts with graphs and makes no comments.
 
-**1. Temporal analysis**
+**3.1 Temporal analysis**
 
 Please aware that in this part, the data collected in Sept 29, Sept 30 - Oct 3, and Oct 5 - Oct 8 are **combined**.
 
@@ -41,11 +41,11 @@ The result for Chinese tweets are shown below. The peaks are 1h, 4h, 10h, and 20
 
 ![](/assets/img/posts/nationaldaytweets/Sentiment_of Tweets_by_Time_(Chinese).jpg){:height="200px" width="800px"}
 
-**2. Spatial Analysis**
+**3.2 Spatial Analysis**
 
-**3. Keywords**
+**3.3 Keywords**
 
-**3.1** For English tweets with positive sentiments towards China, the most frequenly mentioned words are shown bottom left, and the negtive bottom right:
+**3.3.1** For English tweets with positive sentiments towards China, the most frequenly mentioned words are shown bottom left, and the negtive bottom right:
 
 ![](/assets/img/posts/nationaldaytweets/tweets_pos_en.png){:height="350px" width="350px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_en.png){:height="350px" width="350px"}
 
@@ -54,7 +54,7 @@ Deleting the words that are contained in both graphs, the results would become:
 ![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_en.png){:height="350px" width="350px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_en.png){:height="350px" width="350px"}
 
 
-**3.2** For Chinese (including both simplified and traditional Chinese) tweets with positive sentiments towards China, the most frequenly mentioned words are shown bottom left, and the negtive bottom right:
+**3.3.2** For Chinese (including both simplified and traditional Chinese) tweets with positive sentiments towards China, the most frequenly mentioned words are shown bottom left, and the negtive bottom right:
 
 ![](/assets/img/posts/nationaldaytweets/tweets_pos_zh.png){:height="350px" width="350px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_zh.png){:height="350px" width="350px"}
 
@@ -63,7 +63,7 @@ Deleting the words that are contained in both graphs, the results would become:
 ![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_zh.png){:height="350px" width="350px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_zh.png){:height="350px" width="350px"}
 
 
-**3.3** For simplified Chinese tweets with positive sentiments towards China, the most frequenly mentioned words are shown bottom left, and the negtive bottom right:
+**3.3.3** For simplified Chinese tweets with positive sentiments towards China, the most frequenly mentioned words are shown bottom left, and the negtive bottom right:
 
 ![](/assets/img/posts/nationaldaytweets/tweets_pos_zhs.png){:height="350px" width="350px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_zhs.png){:height="350px" width="350px"}
 
@@ -72,7 +72,7 @@ Deleting the words that are contained in both graphs, the results would become:
 ![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_zhs.png){:height="350px" width="350px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_zhs.png){:height="350px" width="350px"}
 
 
-**3.4** For traditional Chinese tweets with positive sentiments towards China, the most frequenly mentioned words are shown bottom left, and the negtive bottom right:
+**3.3.4** For traditional Chinese tweets with positive sentiments towards China, the most frequenly mentioned words are shown bottom left, and the negtive bottom right:
 
 ![](/assets/img/posts/nationaldaytweets/tweets_pos_zht.png){:height="350px" width="350px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_zht.png){:height="350px" width="350px"}
 
