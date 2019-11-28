@@ -57,7 +57,7 @@ The result for Chinese tweets are:
 
 **3.2 Spatial Analysis**
 
-[](/assets/img/posts/nationaldaytweets/map_pos_en.html)
+[]</assets/img/posts/nationaldaytweets/map_pos_en.html>
 
 **3.3 Keywords**
 
