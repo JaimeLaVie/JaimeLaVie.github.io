@@ -47,7 +47,7 @@ author_education_details:
                 college_name: <a href="https://www.tbsi.edu.cn/en/">Tsinghua-Berkeley Shenzhen Institute</a>, <a href="https://www.tsinghua.edu.cn/publish/thu2018en/index.html"> Tsinghua University </a>
                 # college_url: https://www.tbsi.edu.cn/en/
                 college_degree: Data Science and Information Technology
-                description: Master of Science, 2018-2021(Expected)
+                description: Master of Science, 2018-2021 (Expected)
                 visibility: true
               - college_logo: ecn.png
                 college_name: <a href="https://www.ec-nantes.fr/">École Centrale de Nantes</a>
