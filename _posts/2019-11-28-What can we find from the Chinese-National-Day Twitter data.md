@@ -41,6 +41,14 @@ The result for Chinese tweets are shown below. The peaks are 1h, 4h, 10h, and 20
 
 ![](/assets/img/posts/nationaldaytweets/Sentiment_of Tweets_by_Time_(Chinese).jpg){:height="200px" width="800px"}
 
+The normalized positive sentiments are obtained by dividing the number of positive tweets within a time period by the number of all the tweets collected within this time period. The normalized negative sentiments can be calculated in the same way. And the normalized sentiments is the difference between the normalized positive sentiments and the normalized negative sentiments. The result for English tweets are:
+
+![](/assets/img/posts/nationaldaytweets/Normalized Sentiment of Tweets by Time (English).jpg){:height="200px" width="800px"}
+
+The result for Chinese tweets are:
+
+![](/assets/img/posts/nationaldaytweets/Normalized Sentiment of Tweets by Time (Chinese).jpg){:height="200px" width="800px"}
+
 **3.2 Spatial Analysis**
 
 **3.3 Keywords**
