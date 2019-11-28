@@ -20,9 +20,13 @@ Firstly, a relevance classifier would decide whether a tweet is relevant to the 
 
 ##### Results and Visualization
 The analysis of the data is not yet completed, so this section only provides basic facts with graphs and makes no comments.
+
 **Temporal analysis**
+
 **Spatial Analysis**
+
 **Keywords**
+
 For English tweets with positive sentiments towards China, the most frequenly mentioned words are:
 ![deploy using travis](/assets/img/posts/nationaldaytweets/tweets_pos_en.png){:class="img-fluid"}
 For English tweets with negative sentiments towards China, the most frequenly mentioned words are:
