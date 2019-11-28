@@ -29,7 +29,7 @@ The analysis of the data is not yet completed, so this section only provides bas
 
 For English tweets with positive sentiments towards China, the most frequenly mentioned words are:
 
-![](/assets/img/posts/nationaldaytweets/tweets_pos_en.png){:height="100px" width="400px"}
+![](/assets/img/posts/nationaldaytweets/tweets_pos_en.png){:height="400px" width="400px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_en.png){:height="400px" width="400px"}
 
 For English tweets with negative sentiments towards China, the most frequenly mentioned words are:
 
