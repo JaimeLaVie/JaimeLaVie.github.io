@@ -10,7 +10,7 @@ thumbnail: map.png
 
 Hi, there! This is my first academic blog. What I'm going to introduce is the twmporal and spatial analysis of over **270 thousand 2019-Chinese-Natioinal-Day-related** tweets written in **English and Chinese**. These data was collected using Twitter API from 30 September to 3 October. The data of 29 September as well as from 5 October to 8 October was also separately collected.
 
-##### Aims
+**##### Aims**
 I decide to collect and analyze the data because I am interested in whether their is a significant difference in the expressed sentiments on Twitter towards China during such a grand occasion. Also, I want to observe the fluctuation of overall sentiments concerning time and languages.
 
 ##### Methods and experiments
