@@ -23,6 +23,12 @@ The analysis of the data is not yet completed, so this section only provides bas
 
 **Temporal analysis**
 
+Please aware that in this part, the data collected in Sept 29, Sept 30 - Oct 3, and Oct 5 - Oct 8 are **combined**.
+
+The number of English tweets concerning the Chinese National Day are:
+![](/assets/img/posts/nationaldaytweets/Number of Tweets by Time (English).png){:height="400px" width="400px"}
+
+
 **Spatial Analysis**
 
 **Keywords**
