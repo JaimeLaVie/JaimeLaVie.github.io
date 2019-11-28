@@ -113,4 +113,4 @@ Deleting the words that are contained in both graphs, the results would become:
 <br>
 
 ##### 4. Future analysis
-Analysis from the political aspect may focus on the causes of the phenomenon shown above. A country's relationship with China, its location (e.g. whether located along the Belt and Road), as well as the major laguage used within the country shall all be examined.
+Analysis from the political aspect may focus on the causes of the phenomenon shown above. A country's relationship with China, its location (e.g. whether located along the Belt and Road), as well as the major laguage used within the country shall all be considered.
