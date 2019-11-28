@@ -8,4 +8,4 @@ summary: Using twitter data to analyze the public opinions of different countrie
 thumbnail: test.jpg
 ---
 
-Hi, there! This is my first academic blog. Today I will introduce 
+Hi, there! This is my first academic blog. Today I will introduce the 
