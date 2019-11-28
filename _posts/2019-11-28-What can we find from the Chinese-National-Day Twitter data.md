@@ -22,3 +22,6 @@ Firstly, a relevance classifier would decide whether a tweet is relevant to the 
 The analysis of the data is not yet completed, so this section only provides basic facts with graphs and makes no comments.
 **Temporal analysis**
 ![deploy using travis](/assets/img/posts/d3.png){:class="img-fluid"}
+
+##### Future analysis
+Analysis from the political aspect may focus on the causes of the phenomenon shown above. A country's relationship with China, its location (e.g. whether located along the Belt and Road), as well as the major laguage used within the country shall all be examined.
