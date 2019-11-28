@@ -59,7 +59,7 @@ The figures for simplified Chinese and traditional Chinese are also available. I
 
 **3.2 Spatial Analysis**
 
-Some Twitter users chose to provide their location information in the profile, which enables us to conduct geological analysis. The following link contains six interactive maps. 
+Some Twitter users chose to provide their location information in the profile, which enables us to conduct geological analysis. The following link contains eight interactive maps. 
 
 <a href="https://jaimelavie.github.io/National_Day_Public_Opinion_Mining/"> 可视化地图 Visualization </a>
 
