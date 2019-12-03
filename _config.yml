@@ -15,8 +15,8 @@ urls:
     #   url : /shop/
     - text: Contact Me
       url : /contact
-    - text: Styleguide
-      url: /styleguide/
+    # - text: Styleguide
+    #   url: /styleguide/
     
 
 # Edit these details 
