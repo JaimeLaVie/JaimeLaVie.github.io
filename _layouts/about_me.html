@@ -47,11 +47,15 @@ layout: default
                         <div class="col-md-2">
                             <img src="/assets/img/{{ exp.company_logo }}" class="company-logo" />
                         </div>
-                        <div class="col-md-10">
+                        <div class="col-md-4">
                             <h4 class="experience-title"> {{ exp.designation }}</h4>
                             <h6 class="experience-info"> {{ exp.company_name_zh }}</h6>
-                            <h6 class="experience-info"> {{ exp.company_name_en }}</h6>
                             <p class="experience-desc"> {{ exp.description_zh }} </p>
+                            <!-- <p><a href="{{exp.company_url}}">{{ exp.company_url}}</a></p>  -->
+                        </div>
+                        <div class="col-md-4">
+                            <h4 class="experience-title"> {{ exp.designation }}</h4>
+                            <h6 class="experience-info"> {{ exp.company_name_en }}</h6>
                             <p class="experience-desc"> {{ exp.description_en }} </p>
                             <!-- <p><a href="{{exp.company_url}}">{{ exp.company_url}}</a></p>  -->
                         </div>

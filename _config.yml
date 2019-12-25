@@ -34,7 +34,8 @@ author_work_experiences:
               company_name_en: <a href="https://www.oppo.com/en/">OPPO</a>
               company_logo: oppo.png
               # company_url: https://www.oppo.com/en/
-              designation: 安卓开发实习生 Android Development Intern
+              designation_zh: 安卓开发实习生
+              designation_en: Android Development Intern
               description_zh: 调试CuttleFish模拟器（2019年5-6月）
               description_en: Worked on CuttleFish simulator (May 2019 - Jun 2019)
               visibility: true
@@ -42,7 +43,8 @@ author_work_experiences:
               company_name_en: <a href="https://www.cloopen.com/">Cloopen</a>
               company_logo: cloopen.png
               # company_url: https://www.cloopen.com/
-              designation: 技术预研部实习生 Algorithm Intern
+              designation_zh: 技术预研部实习生
+              designation_en: Algorithm Intern
               description_zh: 人脸检测、活体检测（2018年7-8月）
               description_en: Worked on human face liveness detection and gesture recognition (Jul 2018 - Aug 2018)
               visibility: true
