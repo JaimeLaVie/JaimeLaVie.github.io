@@ -71,13 +71,13 @@ author_education_details:
 
 author_certificate_details:
               - certificate_logo: international_relations.jpg
-                institute_name: Coursera, see <a href="https://www.coursera.org/account/accomplishments/verify/A49272V49X9T"> Certificate </a>
+                institute_name: Coursera, see <a href="https://www.coursera.org/account/accomplishments/verify/A49272V49X9T"> Certificate </a>  Coursera网络课程, 参见 <a href="https://www.coursera.org/account/accomplishments/verify/A49272V49X9T"> 证书 </a>
                 # college_url: https://www.coursera.org/account/accomplishments/certificate/A49272V49X9T
                 certificate_name: Understanding International Relations Theory
                 description: Online Course, Jun 2019
                 visibility: true
               - certificate_logo: political_economy.jpg
-                institute_name: Coursera, see <a href="https://www.coursera.org/account/accomplishments/verify/H5Z8HJYM3BCZ"> Certificate </a>
+                institute_name: Coursera, see <a href="https://www.coursera.org/account/accomplishments/verify/H5Z8HJYM3BCZ"> Certificate </a>  Coursera网络课程, see <a href="https://www.coursera.org/account/accomplishments/verify/H5Z8HJYM3BCZ"> 证书 </a>
                 # college_url: https://www.coursera.org/account/accomplishments/certificate/A49272V49X9T
                 certificate_name: Political Economy of Institutions and Development
                 description: Online Course, Dec 2019
