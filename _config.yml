@@ -71,21 +71,21 @@ author_education_details:
 
 author_certificate_details:
               - certificate_logo: international_relations.jpg
-                institute_name: Coursera, see <a href="https://www.coursera.org/account/accomplishments/verify/A49272V49X9T"> Certificate </a>  Coursera网络课程, 参见 <a href="https://www.coursera.org/account/accomplishments/verify/A49272V49X9T"> 证书 </a>
                 # college_url: https://www.coursera.org/account/accomplishments/certificate/A49272V49X9T
                 certificate_name: Understanding International Relations Theory
-                description: Online Course, Jun 2019
+                institute_name_zh: Coursera网络课程，完成于2019年6月，参见<a href="https://www.coursera.org/account/accomplishments/verify/A49272V49X9T">证书</a>
+                institute_name_en: Coursera Online Course, Jun 2019, see <a href="https://www.coursera.org/account/accomplishments/verify/A49272V49X9T"> Certificate </a> 
                 visibility: true
               - certificate_logo: political_economy.jpg
-                institute_name: Coursera, see <a href="https://www.coursera.org/account/accomplishments/verify/H5Z8HJYM3BCZ"> Certificate </a>  Coursera网络课程, see <a href="https://www.coursera.org/account/accomplishments/verify/H5Z8HJYM3BCZ"> 证书 </a>
                 # college_url: https://www.coursera.org/account/accomplishments/certificate/A49272V49X9T
                 certificate_name: Political Economy of Institutions and Development
-                description: Online Course, Dec 2019
+                institute_name_zh: Coursera网络课程，完成于2019年12月，参见<a href="https://www.coursera.org/account/accomplishments/verify/H5Z8HJYM3BCZ"> 证书 </a>
+                institute_name_en: Coursera Online Course, Dec 2019, see <a href="https://www.coursera.org/account/accomplishments/verify/H5Z8HJYM3BCZ"> Certificate </a>
                 visibility: true
 
 author_project_details:
               - project_thumbnail: wcloud.png
-                project_title: Evaluating Online Public Sentiments towards China":" A Case Study of Twitter Discourse during the 2019 Chinese National Day
+                project_title: Evaluating Online Public Sentiments towards China：A Case Study of Twitter Discourse during the 2019 Chinese National Day
                 project_description: （仅英文）收集并分析2019年10月1日前后与中国国庆有关的中英文推特数据，研究推特话语对华情感在时间、空间、用词等方面的特点。
                 project_url: <a href="/social%20media%20&%20politics/2019/11/28/What-can-we-find-from-the-Chinese-National-Day-Twitter-data/"> 更多 Detail </a> | <a href="https://github.com/JaimeLaVie/National_Day_Public_Opinion_Mining"> Github </a>
                 visibility: true
