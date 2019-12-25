@@ -61,6 +61,8 @@ author_education_details:
                 college_degree: Automation (Electrical and Electronic Engineering)
                 description: Bachelor of Engineering, 2014-2018
                 visibility: true
+
+author_certificate_details:
               - college_logo: coursera.png
                 college_name: Coursera, see <a href="https://www.coursera.org/account/accomplishments/verify/A49272V49X9T"> Certificate </a>
                 # college_url: https://www.coursera.org/account/accomplishments/certificate/A49272V49X9T
@@ -113,6 +115,7 @@ permalink: pretty
 # Choose what to show ( can be true or false)
 show_author_work_experiences: true
 show_author_education_details: true
+show_author_certificate_details: true
 show_author_project_details: true
 
 # dont touch this unless required
