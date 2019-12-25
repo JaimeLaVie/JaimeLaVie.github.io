@@ -63,13 +63,13 @@ author_education_details:
                 visibility: true
 
 author_certificate_details:
-              - college_logo: coursera.png
+              - college_logo: international_relations.png
                 college_name: Coursera, see <a href="https://www.coursera.org/account/accomplishments/verify/A49272V49X9T"> Certificate </a>
                 # college_url: https://www.coursera.org/account/accomplishments/certificate/A49272V49X9T
                 college_degree: Understanding International Relations Theory
                 description: Online Course, Jun 2019
                 visibility: true
-              - college_logo: coursera.png
+              - college_logo: political_economy.jpg
                 college_name: Coursera, see <a href="https://www.coursera.org/account/accomplishments/verify/H5Z8HJYM3BCZ"> Certificate </a>
                 # college_url: https://www.coursera.org/account/accomplishments/certificate/A49272V49X9T
                 college_degree: Political Economy of Institutions and Development
