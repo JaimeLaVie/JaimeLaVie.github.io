@@ -7,7 +7,7 @@ url: "https://jaimelavie.github.io/" # the base hostname & protocol for your sit
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
-    - text: 首页1 Home
+    - text: 首页 Home
       url: /
     - text: 项目 Projects
       url: /blog
