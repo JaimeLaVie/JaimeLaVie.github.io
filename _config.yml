@@ -30,37 +30,37 @@ author_location: 中国北京、深圳 Beijing and Shenzhen, China
 author_website_url: "https://jaimelavie.github.io/"
 
 author_work_experiences: 
-            - company_name: <a href="https://www.oppo.com/en/">OPPO</a>
+            - company_name: <a href="https://www.oppo.com/en/">OPPO广东移动通信有限公司 OPPO</a>
               company_logo: oppo.png
               # company_url: https://www.oppo.com/en/
-              designation: Android Development Intern
-              description: Worked on CuttleFish simulator (May 2019 - Jun 2019)
+              designation: 安卓开发实习生 Android Development Intern
+              description: 调试CuttleFish模拟器 Worked on CuttleFish simulator (May 2019 - Jun 2019)
               visibility: true
-            - company_name: <a href="https://www.cloopen.com/">Cloopen</a>
+            - company_name: <a href="https://www.cloopen.com/">容联易通信息技术有限公司 Cloopen</a>
               company_logo: cloopen.png
               # company_url: https://www.cloopen.com/
-              designation: Software Engineering Intern
-              description: Worked on human face liveness detection and gesture recognition (Jul 2019 - Aug 2019)
+              designation: 技术预研部实习生 Algorithm Intern
+              description: 人脸检测、活体检测 Worked on human face liveness detection and gesture recognition (Jul 2019 - Aug 2019)
               visibility: true
 
 author_education_details:
               - college_logo: tbsi.png
-                college_name: <a href="https://www.tbsi.edu.cn/en/">Tsinghua-Berkeley Shenzhen Institute</a>, <a href="https://www.tsinghua.edu.cn/publish/thu2018en/index.html"> Tsinghua University </a>
+                college_name: <a href="https://www.tbsi.edu.cn/en/">清华伯克利深圳学院 Tsinghua-Berkeley Shenzhen Institute</a>, <a href="https://www.tsinghua.edu.cn/publish/thu2018en/index.html"> 清华大学 Tsinghua University </a>
                 # college_url: https://www.tbsi.edu.cn/en/
-                college_degree: Data Science and Information Technology
-                description: Master of Science, 2018-2021 (Expected)
+                college_degree: 数据科学和信息技术 Data Science and Information Technology
+                description: 工学硕士 Master of Science, 2018-2021 (Expected)
                 visibility: true
               - college_logo: ecn.png
-                college_name: <a href="https://www.ec-nantes.fr/">École Centrale de Nantes</a>
+                college_name: <a href="https://www.ec-nantes.fr/">南特中央理工 École Centrale de Nantes</a>
                 # college_url: https://www.ec-nantes.fr/
-                college_degree: Exchange Student of Signal, Control, and Robotics
-                description: Foundation Master, 2017-2018
+                college_degree: 交换生，信号、控制与机器人方向 Exchange Student of Signal, Control, and Robotics
+                description: 基础硕士 Foundation Master, 2017-2018
                 visibility: true
               - college_logo: tju.png
-                college_name: <a href="http://seea.tju.edu.cn/english/">School of Electrical and Information Engineering</a>, <a href="http://www.tju.edu.cn/english/"> Tianjin University </a>
+                college_name: <a href="http://seea.tju.edu.cn/english/">电气自动化与信息工程学院 School of Electrical and Information Engineering</a>, <a href="http://www.tju.edu.cn/english/"> 天津大学 Tianjin University </a>
                 # college_url: http://www.tju.edu.cn/english/
                 college_degree: Automation (Electrical and Electronic Engineering)
-                description: Bachelor of Engineering, 2014-2018
+                description: 工学学士 Bachelor of Engineering, 2014-2018
                 visibility: true
 
 author_certificate_details:
