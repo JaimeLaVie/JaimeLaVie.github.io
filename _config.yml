@@ -65,7 +65,7 @@ author_education_details:
                 college_name_zh: <a href="http://www.tju.edu.cn/">天津大学</a>, <a href="http://seea.tju.edu.cn/"> 电气自动化与信息工程学院 </a>
                 college_name_en: <a href="http://seea.tju.edu.cn/english/">School of Electrical and Information Engineering</a>, <a href="http://www.tju.edu.cn/english/"> Tianjin University </a>
                 # college_url: http://www.tju.edu.cn/english/
-                college_degree: Automation (Electrical and Electronic Engineering)
+                college_degree: 自动化 Automation (Electrical and Electronic Engineering)
                 description: 工学学士 Bachelor of Engineering, 2014-2018
                 visibility: true
 
