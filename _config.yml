@@ -60,7 +60,8 @@ author_education_details:
                 description_en: Master of Science, 2018-2021 (Expected)
                 visibility: true
               - college_logo: ecn.png
-                college_name_zh: <a href="https://www.ec-nantes.fr/">南特中央理工 École Centrale de Nantes</a>
+                college_name_zh: <a href="https://www.ec-nantes.fr/">法国南特中央理工学院</a>
+                college_name_en: <a href="https://www.ec-nantes.fr/">École Centrale de Nantes, France</a>
                 # college_url: https://www.ec-nantes.fr/
                 college_degree_zh: 信号、控制与机器人方向交换生
                 college_degree_en: Exchange Student of Signal, Control, and Robotics
