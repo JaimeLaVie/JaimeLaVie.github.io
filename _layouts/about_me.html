@@ -5,13 +5,11 @@ layout: default
     <div class="row">
         <div class="col-lg-8">
         
-            {% if site.author_bio_zh %}
+            {% if site.author_bio_zh or site.author_bio_en %}
             <div class="card">
                 <h1 class="card-title">关于我 About</h1>
                 <p> {{ site.author_bio_zh }}</p>
-                {% if site.author_bio_en %}
-                    <p> {{ site.author_bio_en }}</p>
-                {% endif %}
+                <p> {{ site.author_bio_en }}</p>
             </div>
             {% endif %}
 
