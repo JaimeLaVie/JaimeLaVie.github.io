@@ -54,21 +54,27 @@ author_education_details:
                 college_name_zh: <a href="https://www.tsinghua.edu.cn/">清华大学</a>, <a href="https://www.tbsi.edu.cn/"> 清华-伯克利深圳学院</a>
                 college_name_en: <a href="https://www.tbsi.edu.cn/en/">Tsinghua-Berkeley Shenzhen Institute</a>, <a href="https://www.tsinghua.edu.cn/publish/thu2018en/index.html"> Tsinghua University </a>
                 # college_url: https://www.tbsi.edu.cn/en/
-                college_degree: 数据科学和信息技术 Data Science and Information Technology
-                description: 工学硕士 Master of Science, 2018-2021 (Expected)
+                college_degree_zh: 数据科学和信息技术
+                college_degree_en: Data Science and Information Technology
+                description_zh: 工学硕士，2018-2021（预期）
+                description_en: Master of Science, 2018-2021 (Expected)
                 visibility: true
               - college_logo: ecn.png
                 college_name_zh: <a href="https://www.ec-nantes.fr/">南特中央理工 École Centrale de Nantes</a>
                 # college_url: https://www.ec-nantes.fr/
-                college_degree: 信号、控制与机器人方向交换生 Exchange Student of Signal, Control, and Robotics
-                description: 基础硕士 Foundation Master, 2017-2018
+                college_degree_zh: 信号、控制与机器人方向交换生
+                college_degree_en: Exchange Student of Signal, Control, and Robotics
+                description_zh: 基础硕士，2017-2018
+                description_en: Foundation Master, 2017-2018
                 visibility: true
               - college_logo: tju.png
                 college_name_zh: <a href="http://www.tju.edu.cn/">天津大学</a>, <a href="http://seea.tju.edu.cn/"> 电气自动化与信息工程学院 </a>
                 college_name_en: <a href="http://seea.tju.edu.cn/english/">School of Electrical and Information Engineering</a>, <a href="http://www.tju.edu.cn/english/"> Tianjin University </a>
                 # college_url: http://www.tju.edu.cn/english/
-                college_degree: 自动化 Automation (Electrical and Electronic Engineering)
-                description: 工学学士 Bachelor of Engineering, 2014-2018
+                college_degree_zh: 自动化
+                college_degree_en: Automation (Electrical and Electronic Engineering)
+                description_zh: 工学学士，2014-2018
+                description_en: Bachelor of Engineering, 2014-2018
                 visibility: true
 
 author_certificate_details:
