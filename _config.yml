@@ -7,13 +7,13 @@ url: "https://jaimelavie.github.io/" # the base hostname & protocol for your sit
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
-    - text: 首页 Home
+    - text: 首页  Home
       url: /
-    - text: 项目 Projects
+    - text: 项目  Projects
       url: /blog
     # - text: Shop
     #   url : /shop/
-    - text: 联系我 Contact Me
+    - text: 联系我  Contact Me
       url : /contact
     # - text: Styleguide
     #   url: /styleguide/
