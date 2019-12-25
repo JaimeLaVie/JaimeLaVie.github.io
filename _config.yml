@@ -83,6 +83,12 @@ author_project_details:
                 project_url: <a href="/social%20media%20&%20politics/2019/11/28/What-can-we-find-from-the-Chinese-National-Day-Twitter-data/"> Detail </a> | <a href="https://github.com/JaimeLaVie/National_Day_Public_Opinion_Mining"> Github </a>
                 visibility: true
 
+author_contact_information:
+              - contact_image: contact_me.jpg
+                email: E-mail  xyk18@mails.tsinghua.edu.cn
+                tel: Tel  +86 15620079650
+                visibility: true
+
 # social links
 twitter_username: XYekai
 github_username:  JaimeLaVie
@@ -102,7 +108,7 @@ linkedin_username: yekai-xu-b73596156/
 wakatime_username: XU_Yekai
 
 # formspree (contact form)
-formspree_email: xyk18@mails.tsinghua.edu.com
+formspree_email: xyk18@mails.tsinghua.edu.cn
 
 # syntax highlighter
 markdown: kramdown
@@ -117,6 +123,7 @@ show_author_work_experiences: true
 show_author_education_details: true
 show_author_certificate_details: true
 show_author_project_details: true
+show_author_contact_information: true
 
 # dont touch this unless required
 plugins:
