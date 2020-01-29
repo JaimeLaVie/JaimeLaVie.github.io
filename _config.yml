@@ -11,8 +11,6 @@ urls:
       url: /
     - text: 项目 Projects
       url: /blog
-    # - text: Shop
-    #   url : /shop/
     - text: 联系我 Contact Me
       url : /contact
     # - text: Styleguide
