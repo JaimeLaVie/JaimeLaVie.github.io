@@ -99,8 +99,8 @@ author_project_details:
 
 author_contact_information:
               - contact_image: contact_me.jpg
-                email: E-mail  xyk18@mails.tsinghua.edu.cn
-                tel: Tel  +86 15620079650
+                email: 电子邮件 E-mail： xyk18@mails.tsinghua.edu.cn
+                tel: 电话 Tel： (+86) 15620079650
                 visibility: true
 
 # social links
