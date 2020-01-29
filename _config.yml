@@ -93,7 +93,7 @@ author_certificate_details:
 author_project_details:
               - project_thumbnail: wcloud.png
                 project_title: Evaluating Online Public Sentiments towards China：A Case Study of Twitter Discourse during the 2019 Chinese National Day
-                project_description: （仅英文）收集并分析2019年10月1日前后与中国国庆有关的中英文推特数据，研究推特话语对华情感在时间、空间、用词等方面的特点。
+                project_description: <b>（仅英文）</b>收集并分析2019年10月1日前后与中国国庆有关的中英文推特数据，研究推特话语对华情感在时间、空间、用词等方面的特点。
                 project_url: <a href="/social%20media%20&%20politics/2019/11/28/What-can-we-find-from-the-Chinese-National-Day-Twitter-data/"> 更多 Detail </a> | <a href="https://github.com/JaimeLaVie/National_Day_Public_Opinion_Mining"> Github </a>
                 visibility: true
 
