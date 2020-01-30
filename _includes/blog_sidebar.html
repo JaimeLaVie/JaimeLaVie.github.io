@@ -7,8 +7,13 @@
             <p> {{ site.author_bio_zh }}</p>
             <p> {{ site.author_bio_en }}</p>
 
-            {%- include github_follow_button.html -%}
-            {%- include twitter_follow_button.html -%} 
+            {% if site.github_username %}
+              {%- include github_follow_button.html -%} 
+            {% endif %}
+
+            {% if site.twitter_username %}
+              {%- include twitter_follow_button.html -%} 
+            {% endif %}
         </div>
     </div>
     <div class="card">
