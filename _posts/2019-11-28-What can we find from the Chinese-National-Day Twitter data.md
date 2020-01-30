@@ -6,6 +6,7 @@ date: '2019-11-28 10:16:58 +0800'
 category: Social Media & Politics
 summary: Using twitter data to analyze the public opinions of different countries towards China during the 2019 Chinese National Day.
 thumbnail: map.png
+github: true
 ---
 
 Hi, there! This is my first academic blog. What I'm going to introduce is the temporal and spatial analysis of over **270 thousand 2019-Chinese-Natioinal-Day-related** tweets written in **English and Chinese**. These data was collected using Twitter API from 30 September to 3 October. The data of 29 September as well as from 5 October to 8 October was also separately collected.

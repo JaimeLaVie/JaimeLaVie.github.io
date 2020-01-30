@@ -16,6 +16,7 @@
             <a href="{{site.baseurl}}/blog/categories/{{category|slugize}}">{{category}}</a>
             {% unless forloop.last %}&nbsp;{% endunless %} {% endfor %}
         </div>
+        {% if page.github %} {%- include github_star_button.html -%}  {% endif %}
     </div>
 
     <div class="card-body" itemprop="articleBody">
