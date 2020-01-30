@@ -31,6 +31,7 @@ layout: default
                             <p><a href="{{exp.company_url}}">{{ project.project_url}}</a></p>
                         </div>
                     </div>
+                    {%- include github_star_button.html -%}
                     {% endif %}
                     
                     {% endfor %}  
