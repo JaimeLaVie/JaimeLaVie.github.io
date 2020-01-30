@@ -9,4 +9,4 @@ thumbnail: test.jpg
 github: false
 ---
 
-Hi! This is the first blog of this site. Hope we can enjoy social data science together!
+Hi! This is the first blog of this site. Hope we can enjoy social data science together! Yeak
