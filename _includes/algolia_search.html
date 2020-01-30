@@ -19,11 +19,6 @@
 
 </style>
 
-<div class="card">
-  <h5> 抱歉，搜索功能暂时不可用。 </h5>
-  <h5> Sorry, search is temporarily unavailable. </h5>
-</div>
-
 
     <script>
     /* Instanciating InstantSearch.js with Algolia credentials */
@@ -41,31 +36,31 @@
       })
     );
     
-    // search.addWidget(
-    //   instantsearch.widgets.hits({
-    //     container: '#search-hits',
-    //     templates: {
-    //       item: function(hit) {
-    //         return `
-    //                     <div class="card blog-post">
-    //                         <img class="card-img-top" src="${ hit.thumbnail }" alt="${ hit.title }">
-    //                         <div class="card-body center">
-    //                             <img src="/assets/img/{{ site.author_logo }}" class="author-profile-img">
-    //                             <h4 class="card-title">${ hit.title }</h4>
+    search.addWidget(
+      instantsearch.widgets.hits({
+        container: '#search-hits',
+        templates: {
+          item: function(hit) {
+            return `
+                        <div class="card blog-post">
+                            <img class="card-img-top" src="${ hit.thumbnail }" alt="${ hit.title }">
+                            <div class="card-body center">
+                                <img src="/assets/img/{{ site.author_logo }}" class="author-profile-img">
+                                <h4 class="card-title">${ hit.title }</h4>
     
-    //                             <h6 class="card-subtitle mb-2 text-muted">${moment.unix(hit.date).format('MMM D, YYYY')}</h6>
-    //                             <p class="card-text">${hit.summary }</p>
+                                <h6 class="card-subtitle mb-2 text-muted">${moment.unix(hit.date).format('MMM D, YYYY')}</h6>
+                                <p class="card-text">${hit.summary }</p>
     
-    //                             <a href="${hit.url}" data-disqus-identifier="${hit.url}" class="btn btn-primary btn-sm">Read</a>
-    //                             <span class="disqus-comment-count" data-disqus-identifier="${ hit.url }"></span>
+                                <a href="${hit.url}" data-disqus-identifier="${hit.url}" class="btn btn-primary btn-sm">Read</a>
+                                <span class="disqus-comment-count" data-disqus-identifier="${ hit.url }"></span>
     
-    //                         </div>
-    //                     </div>
-    //         `;
-    //       }
-    //     }
-    //   })
-    // );
+                            </div>
+                        </div>
+            `;
+          }
+        }
+      })
+    );
     
     search.start();
     
