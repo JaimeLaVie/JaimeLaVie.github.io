@@ -7,8 +7,7 @@ permalink: /blog/categories/Social%20Media%20%26%20Politics
 <h5> Posts by Category : {{ page.title }} </h5>
 
 <div class="card">
-<h5> Posts by Category : {{ page.title }} </h5>
-<li class="category-posts"><span>{{ post.date | date_to_string }}</span>
+ <li class="category-posts"><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="https://jaimelavie.github.io/social%20media%20&%20politics/2019/11/28/What-can-we-find-from-the-Chinese-National-Day-Twitter-data/"> Social Media & Politics </a></li>
 {% for post in site.categories.Social%20Media%20%26%20Politics %}
  <li class="category-posts"><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
