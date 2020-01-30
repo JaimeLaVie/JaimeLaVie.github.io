@@ -30,8 +30,8 @@ layout: default
                             <p class="experience-desc"> {{ project.project_description }} </p>
                             <p><a href="{{exp.company_url}}">{{ project.project_url}}</a></p>
                         </div>
+                        {%- include github_star_button.html -%}
                     </div>
-                    {%- include github_star_button.html -%}
                     {% endif %}
                     
                     {% endfor %}  
