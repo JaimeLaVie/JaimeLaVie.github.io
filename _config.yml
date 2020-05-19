@@ -86,6 +86,12 @@ author_education_details:
                 visibility: true
 
 author_certificate_details:
+              - certificate_logo: public_policy.jpg
+                # college_url: https://www.coursera.org/account/accomplishments/certificate/A49272V49X9T
+                certificate_name: Public Policy Challenges of the 21st Century
+                institute_name_zh: Coursera网络课程，完成于2020年5月，参见<a href="https://www.coursera.org/account/accomplishments/verify/ED4C9MJGW4CT"> 证书 </a>
+                institute_name_en: Coursera Online Course, May 2020, see <a href="https://www.coursera.org/account/accomplishments/verify/ED4C9MJGW4CT"> Certificate </a>
+                visibility: true
               - certificate_logo: political_economy.jpg
                 # college_url: https://www.coursera.org/account/accomplishments/certificate/A49272V49X9T
                 certificate_name: Political Economy of Institutions and Development
