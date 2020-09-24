@@ -84,7 +84,6 @@ Deleting the words that are contained in both graphs, the results would become:
 
 ![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_en.png){:height="350px" width="350px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_en.png){:height="350px" width="350px"}
 
-
 **3.3.2** For Chinese (including both simplified and traditional Chinese) tweets with positive sentiments towards China, the most frequenly mentioned words are shown bottom left, and the negtive bottom right:
 
 ![](/assets/img/posts/nationaldaytweets/tweets_pos_zh.png){:height="350px" width="350px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_zh.png){:height="350px" width="350px"}
@@ -110,6 +109,10 @@ Deleting the words that are contained in both graphs, the results would become:
 Deleting the words that are contained in both graphs, the results would become:
 
 ![](/assets/img/posts/nationaldaytweets/tweets_pos_delcom_zht.png){:height="350px" width="350px"} ![](/assets/img/posts/nationaldaytweets/tweets_neg_delcom_zht.png){:height="350px" width="350px"}
+
+**3.3.5** Also, word vectors for the top 100 frequently and uniquely used words for both English and Chinese, positive and negative tweets were obtained through word2vec. Their dimension was initially 200, and was reduced to 2 with t-SNE algorithm. See bottom left for word vectors of English tweets and bottom right Chinese tweets.
+
+![](/assets/img/posts/nationaldaytweets/chosen_word_vector_en.jpg){:height="350px" width="350px"} ![](/assets/img/posts/nationaldaytweets/chosen_word_vector_zh.jpg){:height="350px" width="350px"}
 
 <br>
 
