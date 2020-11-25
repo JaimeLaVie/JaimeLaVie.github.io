@@ -29,7 +29,16 @@ author_website_url: "https://jaimelavie.github.io/"
 author_cv_zh_url: /assets/CV_Xu_Yekai_中文.pdf
 author_cv_en_url: /assets/CV_Xu_Yekai.pdf
 
-author_work_experiences: 
+author_work_experiences:
+            - company_name_zh: <a href="https://www.aiib.org/en/index.html">亚洲基础设施投资银行</a>
+              company_name_en: <a href="https://www.aiib.org/en/index.html">Asian Infrastructure Investment Bank</a>
+              company_logo: aiib.jpg
+              # company_url: https://www.aiib.org/en/index.html
+              designation_zh: 实习生
+              designation_en: Portfolio Management Analyst Consultant
+              description_zh: （2020年12月-2021年2月）
+              description_en: (December 2020 - February 2021)
+              visibility: true
             - company_name_zh: <a href="https://www.unescap.org/">联合国亚洲及太平洋经济社会委员会</a>
               company_name_en: <a href="https://www.unescap.org/">United Nations ESCAP</a>
               company_logo: escap.png
@@ -37,7 +46,7 @@ author_work_experiences:
               designation_zh: 经济事务（科技政策）实习生
               designation_en: Economic Affairs Intern
               description_zh: 包容性企业在新冠疫情中所受的影响，以及它们如何利用经营模式与技术上的创新来帮助社会应对疫情（2020年5-11月）
-              description_en: Research on inclusive technologies/businesses and COVID-19 (May 2020 - November 2019)
+              description_en: Research on inclusive technologies/businesses and COVID-19 (May 2020 - November 2020)
               visibility: true
             - company_name_zh: <a href="https://www.oppo.com/cn/">OPPO广东移动通信有限公司</a>
               company_name_en: <a href="https://www.oppo.com/en/">OPPO</a>
@@ -46,7 +55,7 @@ author_work_experiences:
               designation_zh: 安卓开发实习生
               designation_en: Android Development Intern
               description_zh: 调试CuttleFish模拟器（2019年5-6月）
-              description_en: Worked on CuttleFish simulator (May 2019 - Jun 2019)
+              description_en: Worked on CuttleFish simulator (May 2019 - June 2019)
               visibility: true
             - company_name_zh: <a href="https://www.yuntongxun.com/">容联易通信息技术有限公司</a>
               company_name_en: <a href="https://www.cloopen.com/">Cloopen</a>
@@ -55,7 +64,7 @@ author_work_experiences:
               designation_zh: 技术预研部实习生
               designation_en: Algorithm Intern
               description_zh: 人脸检测、活体检测（2018年6-8月）
-              description_en: Worked on human face liveness detection and gesture recognition (Jun 2018 - Aug 2018)
+              description_en: Worked on human face liveness detection and gesture recognition (June 2018 - August 2018)
               visibility: true
 
 author_education_details:
