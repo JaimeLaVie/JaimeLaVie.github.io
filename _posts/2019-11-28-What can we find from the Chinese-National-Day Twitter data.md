@@ -9,7 +9,7 @@ thumbnail: map.png
 github: true
 ---
 
-***The published paper of this work can be found in <a href="https://ieeexplore.ieee.org/document/9334093/"> IEEE Xplore digital library </a>.***
+***The published paper of this work can be found in <a href="https://ieeexplore.ieee.org/document/9334093/"> IEEE Xplore digital library</a>.***
 
 Hi, there! This is my first academic blog. What I'm going to introduce is the temporal, spatial and linguistic analysis of over **270 thousand 2019-Chinese-Natioinal-Day-related** tweets written in **English and Chinese**. These data was collected using Twitter API from 30 September to 3 October, and the total number of tweets collected was 311,935. 246,602 of them were written in English, and another 5,150 were in Chinese (traditional and simplified). The data of 29 September as well as from 5 October to 8 October was also separately collected.
 
