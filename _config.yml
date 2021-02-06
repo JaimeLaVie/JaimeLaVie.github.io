@@ -36,8 +36,8 @@ author_work_experiences:
               # company_url: https://www.aiib.org/en/index.html
               designation_zh: 项目管理与文本分析实习生
               designation_en: Portfolio Management Analyst Consultant
-              description_zh: （2020年12月-2021年2月）
-              description_en: (Dec. 2020 - Feb. 2021)
+              description_zh: 利用主题模型和关键词提取技术，总结在先前的投资行为中积累的知识；应用文本分析算法，使用世行、亚开行的开放数据，合并亚投行的数据以建立投资操作知识数据库（2020年12月-）
+              description_en: Utilizing topic models and key word extraction techniques to provide insights into the knowledge accumulated during previous investment operations; Applying text analysis algorithms to help establish an operational database. (Dec. 2020 - )
               visibility: true
             - company_name_zh: <a href="https://www.unescap.org/">联合国亚洲及太平洋经济社会委员会</a>
               company_name_en: <a href="https://www.unescap.org/">United Nations ESCAP</a>
@@ -46,7 +46,7 @@ author_work_experiences:
               designation_zh: 经济事务（科技政策）实习生
               designation_en: Economic Affairs Intern
               description_zh: 撰写关于医疗行业中的包容性企业的政策简报；组织<a href="https://artnet.unescap.org/sti/events/webinar-promoting-grassroots-innovation-present-situation-challenges-and-policies">推动草根创新在线研讨会</a>等（2020年5-11月）
-              description_en: Complete a policy brief on inclusive businesses in the health sector; Organising the <a href="https://artnet.unescap.org/sti/events/webinar-promoting-grassroots-innovation-present-situation-challenges-and-policies">Webinar on Promoting Grassroots Innovation</a>, etc. (May 2020 - Nov. 2020)
+              description_en: Completing a policy brief on inclusive businesses in the health sector; Organizing the <a href="https://artnet.unescap.org/sti/events/webinar-promoting-grassroots-innovation-present-situation-challenges-and-policies">Webinar on Promoting Grassroots Innovation</a>, etc. (May 2020 - Nov. 2020)
               visibility: true
             - company_name_zh: <a href="https://www.oppo.com/cn/">OPPO广东移动通信有限公司</a>
               company_name_en: <a href="https://www.oppo.com/en/">OPPO</a>
