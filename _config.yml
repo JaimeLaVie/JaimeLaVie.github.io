@@ -68,7 +68,7 @@ author_work_experiences:
               visibility: true
 
 author_education_details:
-              - college_logo: tbsi.png
+              - college_logo: thu.png # tbsi.png
                 college_name_zh: <a href="https://www.tsinghua.edu.cn/">清华大学</a>, <a href="https://www.tbsi.edu.cn/"> 清华-伯克利深圳学院</a>
                 college_name_en: <a href="https://www.tbsi.edu.cn/en/">Tsinghua-Berkeley Shenzhen Institute</a>, <a href="https://www.tsinghua.edu.cn/publish/thu2018en/index.html"> Tsinghua University </a>
                 # college_url: https://www.tbsi.edu.cn/en/
