@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 urls:
     - text: 首页 Home
       url: /
-    - text: 项目 Projects
+    - text: 科研 Research
       url: /blog
     - text: 联系我 Contact Me
       url : /contact/#/
