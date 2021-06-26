@@ -70,7 +70,7 @@ author_work_experiences:
 author_education_details:
               - college_logo: thu.png # tbsi.png
                 college_name_zh: <a href="https://www.u-tokyo.ac.jp/zh/index.html">东京大学</a>, <a href="https://www.iii.u-tokyo.ac.jp/"> 情报学环·学际情报学府</a>
-                college_name_en: <a href="https://www.iii.u-tokyo.ac.jp/">Graduate School of Interdisciplinary Information Studies</a>, <a href="https://www.u-tokyo.ac.jp/en/> University of Tokyo</a>
+                college_name_en: <a href="https://www.iii.u-tokyo.ac.jp/">Graduate School of Interdisciplinary Information Studies</a>, <a href="https://www.u-tokyo.ac.jp/en/"> University of Tokyo </a>
                 # college_url: https://www.tbsi.edu.cn/en/
                 college_degree_zh: 跨学科信息研究（政治传播）
                 college_degree_en: Interdisciplinary Information Studies
