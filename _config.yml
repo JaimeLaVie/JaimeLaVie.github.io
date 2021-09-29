@@ -23,7 +23,7 @@ author_logo: profile.jpg
 author: XU Yekai
 author_bio_zh: 我是东京大学跨学科信息研究（日语：学際情報学）博士一年级学生徐曳恺，研究兴趣是：一、互联网研究+政治传播学，特别是与政治/国际关系相关的社交媒体数据分析；二、新兴技术与国际安全，特别是网络空间的（国际）治理和政策问题。请点击<a href="https://www.notion.so/224393322b784ec7bfbe98a8ed89b5b5">我的论文列表</a>了解我的研究工作。
 author_bio_en: 'Hi, I am XU Yekai, a doctoral student at the Graduate School of Interdisciplinary Information Studies, University of Tokyo. My research interests include: 1) Internet studies & political communication on the internet, especially social media data analysis for politics & international relations studies; 2) emerging technologies and international security, especially the (international) governance of cyberspace.'
-author_email: "xyk18@tsinghua.org.cn"
+author_email: "xu-yekai@g.ecc.u-tokyo.ac.jp"
 author_location: 日本东京   Tokyo, Japan
 author_website_url: "https://jaimelavie.github.io/"
 author_cv_zh_url: /assets/CV/CV_Xu_Yekai_中文.pdf
@@ -134,7 +134,7 @@ author_project_details:
 
 author_contact_information:
               - contact_image: contact_me.jpg
-                email: 电子邮件 E-mail： xyk18@tsinghua.org.cn
+                email: 电子邮件 E-mail： xu-yekai@g.ecc.u-tokyo.ac.jp
                 tel: 电话 Tel： (+86) 15620079650
                 visibility: true
 
