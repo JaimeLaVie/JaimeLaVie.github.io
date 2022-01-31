@@ -30,6 +30,15 @@ author_cv_zh_url: /assets/CV/CV_Xu_Yekai_中文.pdf
 author_cv_en_url: /assets/CV/CV_Xu_Yekai.pdf
 
 author_work_experiences:
+            - company_name_zh: <a href="https://y20-indonesia.org/">2022年二十国集团青年峰会</a>
+              company_name_en: <a href="https://y20-indonesia.org/">G20 Youth Summit 2022 (Y20)</a>
+              company_logo: y20.png
+              # company_url: https://y20-indonesia.org/
+              designation_zh: 中国青年代表
+              designation_en: Chinese Youth Delegate
+              description_zh: 主要负责议题：数字化转型（2022年2-7月）
+              description_en: Priority area：digital transformation. (Feb. 2022 - Jul. 2022)
+              visibility: true
             - company_name_zh: <a href="https://www.aiib.org/en/index.html">亚洲基础设施投资银行</a>
               company_name_en: <a href="https://www.aiib.org/en/index.html">Asian Infrastructure Investment Bank</a>
               company_logo: aiib.jpg
