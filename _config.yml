@@ -95,15 +95,6 @@ author_education_details:
                 description_zh: 工学硕士，2018-2021<br><a href="https://jaimelavie.github.io/graduation_travel/">毕业旅行</a>
                 description_en: Master of Science, 2018-2021<br><a href="https://jaimelavie.github.io/graduation_travel/">Graduation Travel</a>
                 visibility: true
-              - college_logo: ecn.png
-                college_name_zh: <a href="https://www.ec-nantes.fr/">法国南特中央理工学院</a>
-                college_name_en: <a href="https://www.ec-nantes.fr/">École Centrale de Nantes, France</a>
-                # college_url: https://www.ec-nantes.fr/
-                college_degree_zh: 信号、控制与机器人
-                college_degree_en: Signal, Control, and Robotics
-                description_zh: 基础硕士（交换生），2017-2018
-                description_en: Foundation Master (Exchange Student), 2017-2018
-                visibility: true
               - college_logo: tju.png
                 college_name_zh: <a href="http://www.tju.edu.cn/">天津大学</a>, <a href="http://seea.tju.edu.cn/"> 电气自动化与信息工程学院 </a>
                 college_name_en: <a href="http://seea.tju.edu.cn/english.htm">School of Electrical and Information Engineering</a>, <a href="http://www.tju.edu.cn/english/"> Tianjin University </a>
@@ -112,6 +103,15 @@ author_education_details:
                 college_degree_en: Automation (Electrical and Electronic Engineering)
                 description_zh: 工学学士，2014-2018
                 description_en: Bachelor of Engineering, 2014-2018
+                visibility: true
+              - college_logo: ecn.png
+                college_name_zh: <a href="https://www.ec-nantes.fr/">法国南特中央理工学院</a>
+                college_name_en: <a href="https://www.ec-nantes.fr/">École Centrale de Nantes, France</a>
+                # college_url: https://www.ec-nantes.fr/
+                college_degree_zh: 信号、控制与机器人
+                college_degree_en: Signal, Control, and Robotics
+                description_zh: 基础硕士（交换生），2017-2018
+                description_en: Foundation Master (Exchange Student), 2017-2018
                 visibility: true
 
 author_certificate_details:
