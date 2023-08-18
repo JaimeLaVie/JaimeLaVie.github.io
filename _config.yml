@@ -79,12 +79,21 @@ author_work_experiences:
 author_education_details:
               - college_logo: utokyo.jpeg # tbsi.png
                 college_name_zh: <a href="https://www.u-tokyo.ac.jp/zh/index.html">东京大学</a>, <a href="https://www.iii.u-tokyo.ac.jp/"> 情报学环·学际情报学府</a>
-                college_name_en: <a href="https://www.iii.u-tokyo.ac.jp/">Graduate School of Interdisciplinary Information Studies</a>, <a href="https://www.u-tokyo.ac.jp/en/"> University of Tokyo </a>
+                college_name_en: <a href="https://www.iii.u-tokyo.ac.jp/"> Graduate School of Interdisciplinary Information Studies </a>, <a href="https://www.u-tokyo.ac.jp/en/"> University of Tokyo </a>
                 # college_url: https://www.tbsi.edu.cn/en/
                 college_degree_zh: 跨学科信息研究（政治传播）
                 college_degree_en: Interdisciplinary Information Studies
                 description_zh: 博士，2021-2025<br>国家公派博士生
                 description_en: PhD, 2021-2025
+                visibility: true
+              - college_logo: yale.png # tbsi.png
+                college_name_zh: <a href="https://www.yale.edu/">耶鲁大学</a>, <a href="https://macmillan.yale.edu/"> 麦克米兰国际和地区研究中心 </a>
+                college_name_en: <a href="https://macmillan.yale.edu/"> MacMillan Center for International and Area Studies </a>, <a href="https://www.yale.edu/"> Yale University </a>
+                # college_url: https://www.tbsi.edu.cn/en/
+                college_degree_zh: 国际和地区研究
+                college_degree_en: International and Area Studies
+                description_zh: 访问研究助理（福克斯奖学金），2023-2024
+                description_en: Visiting Assistant in Research (Fox Fellowship), 2023-2024
                 visibility: true
               - college_logo: thu.png # tbsi.png
                 college_name_zh: <a href="https://www.tsinghua.edu.cn/">清华大学</a>, <a href="https://www.tbsi.edu.cn/"> 清华-伯克利深圳学院</a>
